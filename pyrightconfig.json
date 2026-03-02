@@ -1,0 +1,10 @@
+{
+    "venvPath": ".",
+    "venv": "venv314",
+    "pythonVersion": "3.14",
+    "pythonPlatform": "Windows",
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none"
+}
